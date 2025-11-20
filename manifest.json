@@ -1,0 +1,19 @@
+{
+  "name": "South Beach Casino &amp; Resort",
+  "short_name": "South Beach Casino &amp; Resort",
+  "theme_color": "",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1763564655-favicon-wwwsouthbeachcasinoca.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

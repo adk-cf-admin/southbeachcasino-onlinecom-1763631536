@@ -1,0 +1,197 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#11468A",
+            "welcome-bonus-bg": "#ffffff",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#f7f7f7",
+            "text": "#222829",
+            "text-black": "#eff5f6",
+            "table-head": "#F26724",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#F26724",
+            "yellow": "#01BABC",
+            "yellow-button": "#F26724",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#bbbbb4",
+            "casino-cards": "#fff1eb",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#01BABC",
+            "faq-label": "#fff1eb",
+            "bg-footer": "#F26724",
+            "copyright": "#e7e7d5",
+            "starColor": "#01BABC",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "South Beach Casino & Resort",
+            "title": "South Beach Casino & Resort | Casino, Hotel & Events near Winnipeg",
+            "description": "Discover South Beach Casino & Resort \u2014 a modern casino with hotel, dining, and live shows. Slots, table games, bonuses, and Art Deco luxury.",
+            "canonical": "southbeachcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/619",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "southbeachcasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/620",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/621"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/623",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "South Beach Casino & Resort Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "South Beach Casino & Resort \u2014 Gaming, Entertainment & Relaxation in Manitoba",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/624",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/625",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slot machines and games",
+                "Table games with high stakes and big wins",
+                "Progressive jackpots for massive payouts",
+                "Loyalty program with bonuses and cashback",
+                "Stylish hotel with comfortable rooms",
+                "Restaurants and bars offering diverse menus",
+                "Convenient location near Winnipeg"
+            ],
+            "advantagesAfterText": "South Beach Casino & Resort combines gaming excitement with luxury comfort. Guests enjoy modern slots, table games, and a unique resort atmosphere.\n",
+            "knowMore": "Know more",
+            "appTitle": "South Beach Casino & Resort App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/626",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "South Beach Casino & Resort App",
+            "mobileGooglePlayImageTitle": "South Beach Casino & Resort App",
+            "mobileIosImageTitle": "South Beach Casino & Resort App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About South Beach Casino & Resort",
+                "description1": "",
+                "items": [
+                    "Huge jackpots up to $100,000",
+                    "Generous bonuses up to $500",
+                    "High stakes for big wins"
+                ],
+                "description2": "South Beach Casino & Resort is a modern resort offering a unique blend of gaming and relaxation. Guests can enjoy a stylish atmosphere inspired by Art Deco design. The casino features a wide selection of slot machines and table games for gaming enthusiasts. The hotel provides cozy rooms and exceptional service. Restaurants and bars offer diverse menus and a welcoming ambiance. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/627",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Conveniently located near Winnipeg, the resort is easy to access. Entertainment events and shows are regularly hosted for guests. The loyalty program offers additional bonuses and exclusive perks. South Beach Casino & Resort is perfect for leisure, entertainment, and business gatherings. It\u2019s a destination where excitement and comfort come together."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Southern Style and Excitement",
+                "description": "<p>\nSouth Beach Casino & Resort welcomes guests with a vibrant Art Deco atmosphere, creating a sense of luxury and comfort. The interior features warm tones and modern design elements, making the space stylish and inviting. It\u2019s a perfect blend of gaming excitement and relaxing resort vibes.\n\n<\/p>\n<br>\n<p>\nThe casino operates daily from morning until late at night, giving guests the freedom to play at their convenience. Inside the complex, bars and restaurants offer a variety of local and international dishes. Blue Dolphin Bar delights visitors with live music and cocktails, while Mango\u2019s Restaurant serves diverse breakfast and dinner options.\n\n<\/p>\n<br>\n<p>\nThe resort hotel provides spacious rooms with modern amenities, ideal for both family vacations and business trips. Guests can enjoy the heated pool, fitness area, and conference facilities for events. Regular entertainment shows and themed evenings create a festive atmosphere.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to bonus programs and the Ocean Club loyalty system. Members receive exclusive offers, cashback, and additional perks, making gaming even more rewarding. The program is designed for regular guests, offering tiered benefits that grow with participation.\n\n<\/p>\n<br>\n<p>\nSouth Beach Casino & Resort is a destination where gaming excitement meets comfort and premium service. It\u2019s the perfect place for entertainment, relaxation, and exclusive opportunities.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLanguage and Financial Services at South Beach Casino & Resort\n<\/h3>\n\n<p>\nThe staff at South Beach Casino & Resort primarily communicates in English, ensuring a high level of service for guests from different regions. For international visitors, the team is ready to assist with basic requests and provide clear information, making the stay comfortable for travelers.\n\n<\/p>\n<br>\n<p>\nPayment methods at the casino are diverse and designed for convenience. Guests can use cash, major international credit cards, and electronic payment options. This flexibility allows everyone to choose the most suitable way to pay without limitations.\n\n<\/p>\n<br>\n<p>\nATMs are available throughout the resort, supporting cash withdrawals and basic transactions. For guests arriving from abroad, currency exchange services are provided, which is especially important for tourists. All financial facilities are located in accessible areas to ensure quick service and security.\n\n<\/p>\n<br>\n<p>\nSouth Beach Casino & Resort aims to create the most comfortable conditions for guests, offering flexible payment options and reliable financial solutions. This makes gaming and relaxation simple and secure.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino Visit Rules at South Beach Casino & Resort\n<\/h3>\n\n<p>\nVisiting South Beach Casino & Resort requires following certain rules to ensure comfort and safety for all guests. The dress code is casual yet neat: visitors should look presentable and avoid overly revealing or athletic clothing. Entry is allowed only for adults, in compliance with legal requirements. A valid ID is required for admission.\n\n<\/p>\n<br>\n<p>\nBringing your own food, drinks, or any items that may disrupt order is prohibited. Smoking is permitted only in designated areas. The casino prioritizes safety, so aggressive behavior or attempts to break gaming rules are strictly forbidden.\n\n<\/p>\n<br>\n<p>\nFor convenience, a spacious parking area is available near the resort. Guests can reach the casino by car via Highway 59 or use taxi and shuttle services from Winnipeg. These rules are designed to create a comfortable and enjoyable atmosphere for everyone.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Rules list<\/h4>\n\n <ul>\n            <li>\u2022 \nDress code: neat clothing, no sportswear\n\n<\/li>\n            <li>\u2022 \nAge: adults only\n\n<\/li>\n            <li>\u2022 \nID: valid identification required\n\n<\/li>\n            <li>\u2022 \nRestrictions: no food, drinks, or disruptive items\n\n<\/li>\n\t    <li>\u2022 \nSmoking: only in designated areas\n\n<\/li>\n\t    <li>\u2022 \nParking: free, near the casino\n<\/li>\n\t    <li>\u2022 \nTransport: easy access via Highway 59\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nOcean Club Loyalty Program: Your Benefits at South Beach Casino & Resort\n<\/h3>\n\n<p>\nOcean Club is an exclusive loyalty program designed for regular guests to make every visit more rewarding and enjoyable. Members gain access to bonuses, discounts, special offers, and privileges that are not available to regular visitors. Registration is simple and free: just present a valid ID at the Ocean Club desk and receive your personal card.\n\n<\/p>\n<br>\n<p>\nParticipation terms are clear: the card is used to accumulate points for every slot or table game played. These points can be redeemed for bonus credits, restaurant discounts, free hotel nights, and entry into prize draws. The program features multiple tiers\u2014from Basic to Platinum\u2014each unlocking new benefits. The more you play, the higher your status and the greater your rewards.\n\n<\/p>\n<br>\n<p>\nOcean Club offers generous bonuses: a welcome bonus of up to $50, monthly promotions with extra credits, special VIP offers, and access to exclusive events. Higher tiers provide personalized gifts, priority service, and increased point accumulation rates.\n<\/p>\n<br>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Key program elements\n<\/h4>\n            <ul>\n            <li>\u2022 \nRegistration: free, at the Ocean Club desk, valid ID required\n\n<\/li>\n            <li>\u2022 \nTerms: earn points for every game, redeem for credits and discounts\n\n<\/li>\n \n        <\/ul>\n        <br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n       \n        <h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses\n<\/h4>\n            <ul>\n            <li>\u2022 \nWelcome bonus up to $50\n<\/li>\n            <li>\u2022 \nMonthly promotions with extra credits\n<\/li>\n            <li>\u2022 \nVIP privileges and exclusive events\n<\/li>\n \n        <\/ul>\n        <br>\n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Tiers\n<\/h4>\n        <ul>\n            <li>\u2022 \nBasic: starting level for new members\n\n<\/li>\n            <li>\u2022 \nSilver: enhanced bonuses and discounts\n\n\n<\/li>\n            <li>\u2022 \nGold: access to VIP promos and prize draws\n\n<\/li>\n                   <li>\u2022 \nPlatinum: maximum perks, personalized offers\n\n<\/li>\n        <\/ul>\n        <br>  \n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at South Beach Casino & Resort",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at South Beach Casino & Resort\n<\/h3>\n\n<p>\nSouth Beach Casino & Resort offers guests not only exciting games but also a variety of bonuses and special deals that make every visit more rewarding. The casino regularly hosts promotions for slot and table game players, providing extra credits and chances for big wins. Seasonal events feature themed prize draws and giveaways, adding more excitement to the experience. Guests can participate in tournaments with guaranteed prizes and receive bonuses for playing on specific days of the week.\n\n<\/p>\n<br>\n<p>\nThere are also special offers for new players, including welcome bonuses and extra credits on their first game. Regular visitors enjoy exclusive promotions tied to holidays and weekends. The casino organizes entertainment shows and parties where additional prizes are awarded. All these offers are designed to make every visit fun and profitable.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">List of bonuses and offers<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome bonus: up to $50 on first play\n\n<\/li>\n            <li>\u2022 \nWeekly promotions: extra slot credits on Fridays\n\n<\/li>\n            <li>\u2022 \nTournaments: guaranteed prizes up to $5,000\n\n<\/li>\n            <li>\u2022 \nSeasonal events: holiday prize giveaways\n\n<\/li>\n\t    <li>\u2022 \nSpecial weekends: double points and bonus credits\n\n<\/li>\n\t    <li>\u2022 \nEntertainment parties: chances to win exclusive prizes\n<\/li>\n\t    \n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at South Beach Casino & Resort\n<\/h3>\n\n<p>\nSouth Beach Casino & Resort offers a wide range of games to satisfy both beginners and experienced players. The gaming floor features modern slot machines with vibrant graphics and progressive jackpots, giving players a chance for big wins. For fans of classic games, table options like blackjack and roulette provide a mix of strategy and luck. Poker variations are also available, bringing players together for thrilling rounds.\n\n<\/p>\n<br>\n<p>\nSlot machines come in various themes\u2014from traditional fruit slots to modern video games with bonus rounds. Table games are hosted in a comfortable setting with professional dealers, creating an authentic casino atmosphere. For those seeking fast-paced action, high-stakes games and quick rounds are available. All games include opportunities for bonuses and promotions, making the experience even more exciting.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">List of popular games<\/h4>\n\n <ul>\n            <li>\u2022 \nSlots: classic and video slots with progressive jackpots\n\n<\/li>\n            <li>\u2022 \nBlackjack: a game of strategy and luck\n\n<\/li>\n            <li>\u2022 \nRoulette: European and American versions\n\n<\/li>\n            <li>\u2022 \nTexas Shootout: fast-paced poker variant\n\n<\/li>\n\t    <li>\u2022 \nHigh Card Flush: simple yet thrilling card game\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum & Maximum Bets at South Beach Casino & Resort\n<\/h3>\n\n<p> \nBelow is a handy table with indicative minimum and maximum bet ranges at South Beach Casino & Resort. Public sources confirm slot denominations from 1 cent to $5 per credit; table games typically start at $5 and scale up depending on the table and day\/time (evenings\/weekends often run higher limits). Actual limits can vary on the floor.\n<\/p><br>\n<p> \nAccuracy note: Slot denominations (1\u00a2\u2013$5) are stated on the official site; table-game minimums \u201ctypically $5+\u201d come from an industry review. For any specific table\/time, check the limit placard or ask the pit boss.\n<\/p><br>\n\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#F26724; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic tables <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1\u2013$2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $25+<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100+<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette(live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 outside <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $100+ <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Texas Shootout (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100+<\/td>\n                <\/tr>\n          <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">High Card Flush (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100+<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Limit Notes<\/h4>\n\n\n        <ul>\n            <li>\u2022 \nSlots (IGT, Aristocrat, etc.): Actual spin cost = denom \u00d7 lines\/credits; progressives may require max credit for jackpot\n<\/li>\n            <li>\u2022 \nElectronic tables (roulette, etc.): Limit depends on terminal configuration; shown on the device\n<\/li>\n            <li>\u2022 \nBlackjack (live): Evening\/weekend tables often run higher; dedicated high-limit options\n<\/li>\n            <li>\u2022 \nRoulette (live): Inside bets may have different minimums; see table placard\n<\/li>\n\t    <li>\u2022 \nTexas Shootout (table): Poker-based house game; limits vary by shift\n<\/li>\n\t    <li>\u2022 \nHigh Card Flush (table): Ante\/bonus bets have separate limits; confirm with dealer\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at South Beach Casino & Resort\n<\/h3>\n\n<p> \nSouth Beach Casino & Resort is not just about gaming\u2014it\u2019s a hub for vibrant events and entertainment. The venue regularly hosts shows, concerts, and themed parties that create a festive atmosphere for all guests. Live music is a highlight: every week, local performers play at the Blue Dolphin Bar, and Friday and Saturday nights feature dance parties with cocktails.\n\n<\/p>\n<br>\n<p> \nSpecial events are organized around holidays and seasons, including New Year\u2019s celebrations, summer festivals, and themed shows with prize giveaways. Guests can enjoy the nightclub vibe with modern music and exclusive drinks. For those who prefer a relaxed setting, lounge areas and bars offer a cozy escape.\n\n<\/p>\n<br>\n<p> \nIn addition to entertainment programs, the resort runs slot and table game tournaments paired with festive promotions and bonuses. These events attract both beginners and seasoned players, creating a unique mix of excitement and fun. South Beach Casino & Resort ensures every visit feels extraordinary.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>\u2022 \nBlue Dolphin Bar: weekly live music, Friday parties\n\n<\/li>\n            <li>\u2022 \nThemed parties: holiday events, seasonal shows, prize draws\n\n<\/li>\n            <li>\u2022 \nNightclub: dancing, cocktails, modern beats\n\n<\/li>\n            <li>\u2022 \nConcerts: performances by local and guest artists\n\n<\/li>\n\t    <li>\u2022 \nTournaments: gaming competitions with prizes and bonuses\n\n<\/li>\n\t    <li>\u2022 \nLounge areas: calm spaces for relaxation\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants, and Relaxation at South Beach Casino & Resort\n<\/h3>\n\n<p>\nSouth Beach Casino & Resort offers guests not only gaming excitement but also a complete relaxation experience with premium comfort. The resort features stylish bars and restaurants serving local and international cuisine. Mango\u2019s Restaurant is perfect for breakfast and dinner, offering a diverse menu in a cozy setting. For cocktail lovers and live music fans, the Blue Dolphin Bar hosts evening performances and themed parties.\n\n<\/p>\n<br>\n<p>\nThe resort hotel provides spacious rooms with modern amenities, including free Wi-Fi, flat-screen TVs, and comfortable seating areas. Guests can unwind in the heated indoor pool or visit the fitness center. Conference rooms are available for business meetings, while lounge areas offer a calm space for relaxation. The resort is designed to create ideal conditions for both entertainment and leisure.\n\n<\/p>\n<br>\n<p>\nSouth Beach Casino & Resort is a destination where gaming excitement meets culinary delights and comfortable accommodations. Whether you prefer lively parties or a quiet evening in a restaurant, you\u2019ll find the perfect option here.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Relaxation spots<\/h4>\n\n        <ul>\n            <li>\u2022 \nMango\u2019s Restaurant: breakfast and dinner, diverse menu\n\n<\/li>\n            <li>\u2022 \nBlue Dolphin Bar: cocktails, live music, parties\n\n<\/li>\n            <li>\u2022 \nThe Palms Buffet: themed buffets on weekends\n\n<\/li>\n            <li>\u2022 \nHotel: spacious rooms, pool, fitness center\n\n<\/li>\n\t    <li>\u2022 \nLounge areas: calm atmosphere for relaxation\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What are the casino hours?",
+                    "answer": "The casino is open daily from 10:00 AM to 3:00 AM.\n"
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, major international credit cards, and electronic payments.\n"
+                },
+                {
+                    "title": "Are ATMs and currency exchange available?",
+                    "answer": "Yes, ATMs are on-site, and currency exchange services are offered.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/628",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "South Beach Casino & Resort"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
